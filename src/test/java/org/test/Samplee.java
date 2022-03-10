@@ -7,5 +7,6 @@ public class Samplee {
 	@Test
 	private void Test1() {
 		System.out.println("Test1");
+		System.out.println("Test2");
 	}
 }
